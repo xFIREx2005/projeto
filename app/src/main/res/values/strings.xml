@@ -4,52 +4,51 @@
     <string name="text_voltar">VOLTAR</string>
     <string name="qdt">#quebra de tempo#</string>
 
-        <string name="his_inicio">Oi sou a s/n, me mudei para uma cidade nova a 2 dias com
+    <string name="his_inicio">Oi sou a s/n, me mudei para uma cidade nova a 2 dias com
         meus pais e ainda não conheço nada e nem ninguém, então acho que grandes
         aventuras estão por vir</string>
-        <string name="his_na1">*acordo cedo para começar a organizar as caixas que ainda
+    <string name="his_na1">*acordo cedo para começar a organizar as caixas que ainda
         restara por conta da mudança, me arrumo e logo me dirijo para a escola, já
         que será meu primeiro dia lá*</string>
-        <string name="his_na2">*entrei na escola, olhei a lista onde informavam as salas,
+    <string name="his_na2">*entrei na escola, olhei a lista onde informavam as salas,
         e quando me virei esbarrei em uma garota alta de olhos esverdeados,
         pele bronzeada e cabelo longo e cacheado*</string>
 
-        <string name="his_fa1_1"> s/n- me desculpa, não tinha visto vc aí, perdão</string>
-        <string name="his_fa2_1">xxx- sem problemas linda, vc é nova por aqui? Qual
+    <string name="his_fa1_1"> s/n- me desculpa, não tinha visto vc aí, perdão</string>
+    <string name="his_fa2_1">xxx- sem problemas linda, vc é nova por aqui? Qual
         é o seu nome?</string>
-        <string name="his_fa3_1">s/n- sou sim, me mudei a dois dias, me chamo s/n, e vc?</string>
-        <string name="his_fa4_1">xxx- que nome bonito, me chamo Erika, então temos umanovata,
+    <string name="his_fa3_1">s/n- sou sim, me mudei a dois dias, me chamo s/n, e vc?</string>
+    <string name="his_fa4_1">xxx- que nome bonito, me chamo Erika, então temos umanovata,
         vem cmg quero te mostrar a escola</string>
-        <string name="his_na3_1">*Erika me puxou pelo braço e me levou até o pátio onde havia um garoto
+    <string name="his_na3_1">*Erika me puxou pelo braço e me levou até o pátio onde havia um garoto
         com os cabelos de cor menta, olhos castanhos escuros e camisa de banda*</string>
-        <string name="his_fa5_1">Erika- oii Math, vc viu q temos uma colega nova? Essa é a s/n</string>
-        <string name="his_fa6_1">s/n- oii, prazer</string>
-        <string name="his_fa7_1">Math- eai novata, como vai?</string>
-        <string name="his_fa8_1">s/n- vou bem e vc? Adorei sua camisa</string>
-        <string name="his_fa9_1">Math- vou bem também, sério? Você conhece RoyalBlood?</string>
-        <string name="his_fa10_1">s/n- conheço sim, na verdade é uma das minhas bandas favoritas </string>
-        <string name="his_fa11_1">Math- gostei de vc, agora tenho aula de sociologia,
+    <string name="his_fa5_1">Erika- oii Math, vc viu q temos uma colega nova? Essa é a s/n</string>
+    <string name="his_fa6_1">s/n- oii, prazer</string>
+    <string name="his_fa7_1">Math- eai novata, como vai?</string>
+    <string name="his_fa8_1">s/n- vou bem e vc? Adorei sua camisa</string>
+    <string name="his_fa9_1">Math- vou bem também, sério? Você conhece RoyalBlood?</string>
+    <string name="his_fa10_1">s/n- conheço sim, na verdade é uma das minhas bandas favoritas </string>
+    <string name="his_fa11_1">Math- gostei de vc, agora tenho aula de sociologia,
         mas depois conversamos mais, até</string>
-        <string name="his_fa12_1">s/n- até</string>
-        <string name="his_fa13_1">Erika- olha só, nunca vi o Math ser tão amigável com alguém antes kkkkkk</string>
-        <string name="his_fa14_1">s/n- kkkkkkk ele parece ser bem legal</string>
-        <string name="his_fa15_1">Erika- ele é somente com algumas pessoas, digamos que ele não é muito
+    <string name="his_fa12_1">s/n- até</string>
+    <string name="his_fa13_1">Erika- olha só, nunca vi o Math ser tão amigável com alguém antes kkkkkk</string>
+    <string name="his_fa14_1">s/n- kkkkkkk ele parece ser bem legal</string>
+    <string name="his_fa15_1">Erika- ele é somente com algumas pessoas, digamos que ele não é muito
         de dar abertura, bom já deu a hora, quer que eu te mostre onde é a sua sala?</string>
-        <string name="his_fa16_1">s/n- sim por favor</string>
-        <string name="his_na4_1">*e então Erika me leva a minha sala que era no andar de cima perto
+    <string name="his_fa16_1">s/n- sim por favor</string>
+    <string name="his_na4_1">*e então Erika me leva a minha sala que era no andar de cima perto
         dos armários e se despede de mim* </string>
 
-        <string name="his_fa1_2">  s/n- eii olha por onde anda, tá com merda colada no olho?</string>
-        <string name="his_fa2_2">xxx- olha você por onde anda, parece cega, deve ser aluna nova certeza</string>
-        <string name="his_fa3_2">s/n- o que isso tem a ver?</string>
-        <string name="his_fa4_2">xxx- você não sabe quem eu sou, meu nome é Erika, e sou amiga de praticamente todo mundo nessa escola, então espero que você não chegue folgando já </string>
-        <string name="his_na3_2">logo chega um garoto com os cabelos de cor menta, olhos castanhos escuros e camisa de banda e pergunta para ela o que está havendo pois ouviu a voz alterada da mesma*</string>
-        <string name="his_fa5_2">Erika- oii Math, pelo visto temos uma colega nova bem folgada</string>
-        <string name="his_fa6_2">Math- era só o que faltava, vem Erika, n se estressa com isso</string>
-        <string name="his_fa7_2">Erika- okay math, você tem razão, n vale a pena</string>
-        <string name="his_na4_2">*ele a leva pela mão logo me deixando sozinha no lugar*</string>
-        <string name="his_na5_2">*ando um pouco por alguns corredores e percebo que deu a hora da minha primeira aula, procuro por minha sala e sem querer entro na errada, percebo olhares em mim seguido por risos, saio rapidamente e ando mais um pouco até encontrar minha sala, entro e logo me sento em silêncio no fundo* </string>
-
+    <string name="his_fa1_2">  s/n- eii olha por onde anda, tá com merda colada no olho?</string>
+    <string name="his_fa2_2">xxx- olha você por onde anda, parece cega, deve ser aluna nova certeza</string>
+    <string name="his_fa3_2">s/n- o que isso tem a ver?</string>
+    <string name="his_fa4_2">xxx- você não sabe quem eu sou, meu nome é Erika, e sou amiga de praticamente todo mundo nessa escola, então espero que você não chegue folgando já </string>
+    <string name="his_na3_2">logo chega um garoto com os cabelos de cor menta, olhos castanhos escuros e camisa de banda e pergunta para ela o que está havendo pois ouviu a voz alterada da mesma*</string>
+    <string name="his_fa5_2">Erika- oii Math, pelo visto temos uma colega nova bem folgada</string>
+    <string name="his_fa6_2">Math- era só o que faltava, vem Erika, n se estressa com isso</string>
+    <string name="his_fa7_2">Erika- okay math, você tem razão, n vale a pena</string>
+    <string name="his_na4_2">*ele a leva pela mão logo me deixando sozinha no lugar*</string>
+    <string name="his_na5_2">*ando um pouco por alguns corredores e percebo que deu a hora da minha primeira aula, procuro por minha sala e sem querer entro na errada, percebo olhares em mim seguido por risos, saio rapidamente e ando mais um pouco até encontrar minha sala, entro e logo me sento em silêncio no fundo* </string>
 
 
 </resources>
