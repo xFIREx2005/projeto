@@ -4,54 +4,69 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity8">
 
     <Button
-        android:id="@+id/btnPlay"
-        android:layout_width="247dp"
-        android:layout_height="114dp"
-        android:onClick="play"
-        android:text="@string/text_jogar"
-        android:textSize="40sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.52" />
-
-    <Button
-        android:id="@+id/btnWho"
+        android:id="@+id/btnWho2"
         android:layout_width="165dp"
         android:layout_height="86dp"
-        android:onClick="who"
-        android:text="@string/comojogar"
+        android:onClick="redeEmp"
+        android:text="@string/redeemp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnWho5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txthis"
+        app:layout_constraintVertical_bias="0.106" />
+
+    <Button
+        android:id="@+id/btnWho4"
+        android:layout_width="165dp"
+        android:layout_height="86dp"
+        android:layout_marginTop="30dp"
+        android:onClick="siteEmp"
+        android:text="@string/siteemp"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnWho5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnWho2"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btnWho5"
+        android:layout_width="165dp"
+        android:layout_height="86dp"
+        android:onClick="endEmp"
+        android:text="@string/text_voltar"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.714" />
+        app:layout_constraintVertical_bias="0.948" />
 
     <Button
-        android:id="@+id/btnWho3"
+        android:id="@+id/btnWho6"
         android:layout_width="165dp"
         android:layout_height="86dp"
-        android:onClick="emp"
-        android:text="@string/emp"
+        android:layout_marginTop="30dp"
+        android:onClick="endEmp"
+        android:text="@string/endemp"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.869" />
+        app:layout_constraintTop_toBottomOf="@+id/btnWho4"
+        app:layout_constraintVertical_bias="0.0" />
 
     <TextView
         android:id="@+id/txthis"
-        android:layout_width="342dp"
-        android:layout_height="148dp"
+        android:layout_width="336dp"
+        android:layout_height="60dp"
         android:fontFamily="serif-monospace"
         android:lineSpacingExtra="8sp"
-        android:text="@string/nmJogo"
+        android:text="@string/emp"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="60sp"
@@ -59,8 +74,9 @@
         android:typeface="normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.152" />
+        app:layout_constraintVertical_bias="0.092" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

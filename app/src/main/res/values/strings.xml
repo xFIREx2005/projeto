@@ -3,6 +3,20 @@
     <string name="text_jogar">JOGAR</string>
     <string name="text_voltar">VOLTAR</string>
     <string name="qdt">#quebra de tempo#</string>
+    <string name="avancar">AVANÇAR</string>
+    <string name="esc1_1">pedir desculpa</string>
+    <string name="esc2_1">reclamar</string>
+    <string name="fim_cap">Fim do primeiro capitulo</string>
+    <string name="criadores">Criadores</string>
+    <string name="nm_kaique">Kaique Gonçalves Santos</string>
+    <string name="nm_rose">Rose Guedes Cecan</string>
+    <string name="comojogar">Como Jogar</string>
+    <string name="txtcomo">Leia a historia e escolha as opções que poderam influenciar de forma boa ou ruim seu jogo.</string>
+    <string name="emp">Empresa</string>
+    <string name="endemp">Endereço</string>
+    <string name="redeemp">Rede Social</string>
+    <string name="siteemp">Site</string>
+    <string name="nmJogo">YOUR HISTORY</string>
 
     <string name="his_inicio">Oi sou a s/n, me mudei para uma cidade nova a 2 dias com
         meus pais e ainda não conheço nada e nem ninguém, então acho que grandes
@@ -48,7 +62,8 @@
     <string name="his_fa6_2">Math- era só o que faltava, vem Erika, n se estressa com isso</string>
     <string name="his_fa7_2">Erika- okay math, você tem razão, n vale a pena</string>
     <string name="his_na4_2">*ele a leva pela mão logo me deixando sozinha no lugar*</string>
-    <string name="his_na5_2">*ando um pouco por alguns corredores e percebo que deu a hora da minha primeira aula, procuro por minha sala e sem querer entro na errada, percebo olhares em mim seguido por risos, saio rapidamente e ando mais um pouco até encontrar minha sala, entro e logo me sento em silêncio no fundo* </string>
+    <string name="his_na5_2">*ando um pouco por alguns corredores e percebo que deu a hora da minha primeira aula, procuro por minha sala e sem querer entro na errada...* </string>
+    <string name="his_na6_2">*...percebo olhares em mim seguido por risos, saio rapidamente e ando mais um pouco até encontrar minha sala, entro e logo me sento em silêncio no fundo* </string>
 
 
 </resources>

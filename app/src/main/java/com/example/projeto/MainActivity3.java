@@ -12,16 +12,17 @@ public class MainActivity3 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
         setContentView(R.layout.activity_main3);
     }
     public int numTxt = 0;
     public void ChooseTxt(View view){
         TextView txt = (TextView) findViewById(R.id.txthis);
-        String his_fa1_1 = getString(R.string.his_na1);
+        String his_na1 = getString(R.string.his_na1);
         numTxt++;
         if(numTxt == 1)
         {
-            txt.setText(his_fa1_1);
+            txt.setText(his_na1);
         }
         if(numTxt >= 2)
         {
